@@ -24,6 +24,7 @@ console.log(number7)
 console.log(number8)
 console.log(number9)
 console.log(number10)
+console.log(the web so ok men)
 
 if (number1 == number2 || number1 == number3 || number1 == number4 || number1 == number5 || number1 == number6 || number1 == number7 || number1 == number8 || number1 == number9 || number1 == number10 || number2 == number1 || number2 == number3 || number2 == number4 || number2 == number5 || number2 == number6 || number2 == number7 || number2 == number8 || number2 == number9 || number2 == number10 || number3 == number1 || number3 == number2 || number3 == number4 || number3 == number5 || number3 == number6 || number3 == number7 || number3 == number8 || number3 == number9 || number3 == number10 || number4 == number1 || number4 == number2 || number4 == number3 || number4 == number5 || number4 == number6 || number4 == number7 || number4 == number8 || number4 == number9 || number4 == number10 || number5 == number1 || number5 == number2 || number5 == number3 || number5 == number4 || number5 == number6 || number5 == number7 || number5 == number8 || number5 == number9 || number5 == number10 || number1 == number2 == number3 == number4 == number5 == number6 == number7 == number8 == number9 == number10 || number9 == number10 || number7 == number8 || number8 == number10 || number6 == number7 || number7 == number10 || number8 == number9 || number5 == number7 || number7 == number9 || number5 == number7 || number5 == number10 || number6 == number8 || number6 == number9) {
     location.reload()
